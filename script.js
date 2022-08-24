@@ -56,26 +56,9 @@ $zeroButton.addEventListener('click', () => $resultado.innerHTML += 0)
 const $dotButton = document.querySelector('#dotButton')
 $dotButton.addEventListener('click', () => $resultado.innerHTML += '.')
 
-
-
-
-
-
-
-
-
-
-
-
-
-/* const $testButton = document.querySelector('#testButton')
-
-function text(text) {
-    return text
-}
-
-function edit () {
-    $testButton.innerHTML = text('a')
-}
-
-$testButton.addEventListener('click', edit) */
+const $equalButton = document.querySelector('.equalButton')
+$equalButton.addEventListener('click', () => {
+    if($resultado.textContent) {
+        $resultado.innerHTML = eval($resultado.innerHTML)
+    }
+})
