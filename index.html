@@ -11,76 +11,79 @@
     <div class="workSpace">
         <div class="calculadora">
             <h1>Calculadora</h1>
-            <p id="resultado"></p>
+            <p class="result" id="resultado"></p>
             <table>
                 <tr>
                     <td>
-                        <button>C</button>
+                        <button id="clearButton" class="calculatorButton">C</button>
                     </td>
                     <td>
-                        <button><</button>
+                        <button id="deleteButton" class="calculatorButton"><</button>
                     </td>
                     <td>
-                        <button>/</button>
+                        <button id="divisionButton" class="calculatorButton">/</button>
                     </td>
                     <td>
-                        <button>x</button>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <button>7</button>
-                    </td>
-                    <td>
-                        <button>8</button>
-                    </td>
-                    <td>
-                        <button>9</button>
-                    </td>
-                    <td>
-                        <button>-</button>
+                        <button id="multiplicationButton" class="calculatorButton">x</button>
                     </td>
                 </tr>
                 <tr>
                     <td>
-                        <button>4</button>
+                        <button id="sevenButton" class="calculatorButton">7</button>
                     </td>
                     <td>
-                        <button>5</button>
+                        <button id="eightButton" class="calculatorButton">8</button>
                     </td>
                     <td>
-                        <button>6</button>
+                        <button id="nineButton" class="calculatorButton">9</button>
                     </td>
                     <td>
-                        <button>+</button>
+                        <button id="subtractionButton" class="calculatorButton">-</button>
                     </td>
                 </tr>
                 <tr>
                     <td>
-                        <button>1</button>
+                        <button id="fourButton" class="calculatorButton">4</button>
                     </td>
                     <td>
-                        <button>2</button>
+                        <button id="fiveButton" class="calculatorButton">5</button>
                     </td>
                     <td>
-                        <button>3</button>
+                        <button id="sixButton" class="calculatorButton">6</button>
+                    </td>
+                    <td>
+                        <button id="additionButton" class="calculatorButton">+</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button id="oneButton" class="calculatorButton">1</button>
+                    </td>
+                    <td>
+                        <button id="twoButton" class="calculatorButton">2</button>
+                    </td>
+                    <td>
+                        <button id="threeButton" class="calculatorButton">3</button>
                     </td>
                     <td rowspan="2">
-                        <button class="equalButton">=</button>
+                        <button class="calculatorButton equalButton">=</button>
                     </td>
                 </tr>
                 <tr>
                     <td colspan="2">
-                        <button class="zeroButton">0</button>
+                        <button id="zeroButton" class="calculatorButton zeroButton">0</button>
                     </td>
                     <td>
-                        <button>.</button>
+                        <button id="dotButton" class="calculatorButton">.</button>
                     </td>
                 </tr>
             </table>
         </div>
+
+        <button id="testButton">Clique</button>
     </div>
 
+    
     <script src="script.js"></script>
 </body>
 </html>

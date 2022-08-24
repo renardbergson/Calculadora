@@ -29,20 +29,22 @@ body {
       margin-bottom: 10px;
     }
 
-    #resultado {
+    .result {
       display: block;
       background-color: white;
-      color: black;
       height: 40px;
       margin: 0 auto;
       width: 96%;
+      color: black;
+      text-align: end;
+      font-size: 25pt;
     }
   
     table {
       display: block;
       margin: 10px auto 0 auto;
   
-      button {
+      .calculatorButton {
         background-color: rgb(50, 50, 50);
         color: white;
         border: none;
