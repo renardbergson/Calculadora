@@ -12,7 +12,7 @@ Este projeto se trata de uma calculadora simples, que realiza as quatro operaç�
 ### Linguagens
   •	HTML5 <br>
   •	CSS3  <br>
-  •	SCSS  <br>
+  •	SASS  <br>
   •	JavaScript
 
 ### Serviços utilizados
@@ -21,6 +21,9 @@ Este projeto se trata de uma calculadora simples, que realiza as quatro operaç�
 
 ### Pré requisitos
   •	Qualquer navegador ou aparelho mobile
+  
+### Preview
+![](https://github.com/renardbergson/Calculadora/blob/master/gif-calculadora.gif) 
 
 ### Link
   •	[Calculadora](https://renardbergson.github.io/Calculadora/)
