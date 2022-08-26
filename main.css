@@ -65,4 +65,17 @@ body {
 }
 .workSpace .calculadora table .zeroButton {
   width: 95%;
+}
+.workSpace .calculadora .footer {
+  position: absolute;
+  bottom: 4px;
+  right: 24px;
+  font-size: 9pt;
+}
+.workSpace .calculadora .footer .footerLink {
+  text-decoration: none;
+  color: white;
+}
+.workSpace .calculadora .footer .footerLink:hover {
+  text-shadow: 0 0 10px white;
 }/*# sourceMappingURL=main.css.map */

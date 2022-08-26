@@ -73,5 +73,22 @@ body {
         width: 95%;
       }
     }
+
+    .footer {
+      position: absolute;
+      bottom: 4px;
+      right: 24px;
+      font-size: 9pt;
+      
+  
+      .footerLink {
+        text-decoration: none;
+        color: white;
+  
+        &:hover {
+          text-shadow: 0 0 10px white;
+        }
+      }
+    }
   }
 }
