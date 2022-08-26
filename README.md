@@ -23,10 +23,11 @@ Este projeto se trata de uma calculadora simples, que realiza as quatro operaç�
   •	Qualquer navegador ou aparelho mobile
   
 ### Preview
-![](https://github.com/renardbergson/Calculadora/blob/master/gif-calculadora.gif) 
+Este é um pequeno preview de demonstração das operações básicas em funcionamento <br>
+![](https://github.com/renardbergson/Calculadora/blob/master/img/gif-calculadora.gif) 
 
 ### Link
-  •	[Calculadora](https://renardbergson.github.io/Calculadora/)
+  •	[Calculadora](https://renardbergson.github.io/Calculadora/) 
 
 ### Autor
   •	Renard Bergson 🤓 <br>
