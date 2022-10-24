@@ -27,7 +27,7 @@ Este é um pequeno preview de demonstração das operações básicas em funcion
 ![](https://github.com/renardbergson/Calculadora/blob/master/img/gif-calculadora.gif) 
 
 ### Link
-  •	[Calculadora](https://renardbergson.github.io/calculadora/) 
+  •	[Calculadora](https://calculadora-rb.netlify.app) 
 
 ### Autor
   •	Renard Bergson 🤓 <br>
