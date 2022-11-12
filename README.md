@@ -31,6 +31,6 @@ Este é um pequeno preview de demonstração das operações básicas em funcion
 
 ### Autor
   •	Renard Bergson 🤓 <br>
-	•	renardrock@gmail.com <br>
+	•	contato@renardb.com <br>
 	•	[LinkedIn](https://www.linkedin.com/in/renardbergson) <br>
 	•	[GitHub](https://www.github.com/renardbergson)
